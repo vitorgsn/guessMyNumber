@@ -55,5 +55,3 @@ document.querySelector('.again').addEventListener('click', function() {
     document.querySelector('body').style.backgroundColor = '#222'
     document.querySelector('.number').style.width = '15rem'
 })
-
-//teste
